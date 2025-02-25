@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "408426241520",
+    "project_id": "bmi-calc-426917",
+    "storage_bucket": "bmi-calc-426917.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408426241520:android:91bdd152f6560a6e655135",
+        "android_client_info": {
+          "package_name": "com.example.bmiCalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408426241520-hcvk9nmjnt0l85il1a0k2flkkbpa6vdu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bmiCalculator",
+            "certificate_hash": "05ab1746f1b48d95ee647f8d30dda9463b6d5b91"
+          }
+        },
+        {
+          "client_id": "408426241520-f11dagqgnqka947rssv3o4d7lmej3b5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6AjCyj5XpcwcsP0DdmiVcLtM8vZBOE_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408426241520-f11dagqgnqka947rssv3o4d7lmej3b5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
